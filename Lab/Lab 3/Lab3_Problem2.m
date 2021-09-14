@@ -1,3 +1,5 @@
+% 2) Find out the number of iteration of 1(a). Now increase the accuracy level to 8 decimal point and then find the number of iteration.
+
 
 syms x;
 y=x^3-2*x-5;

@@ -1,3 +1,6 @@
+% b) x*sin(x)+cos(x) = 0 correct to 5decimal point, between x=1 and x=2
+
+
 f =@(x)x*sin(x)+cos(x);
 
 x0=1;
